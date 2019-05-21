@@ -1,0 +1,12 @@
+
+
+h1{
+	/**set text size to fifty pixel*/
+	font-size: 50px;
+
+	/**set font family to monospace*/
+	font-family: monospace;
+
+	/**set text color to purple*/
+	color: purple;
+}
